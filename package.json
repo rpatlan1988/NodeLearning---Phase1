@@ -1,0 +1,19 @@
+{
+  "name": "node-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpatlan1988/NodeLearning---Phase1.git"
+  },
+  "author": "rpatlan1988",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpatlan1988/NodeLearning---Phase1/issues"
+  },
+  "homepage": "https://github.com/rpatlan1988/NodeLearning---Phase1#readme"
+}
